@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-12T06:01:29.554515048Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-13T01:37:34.347528257Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -2640,10 +2640,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap",
-            "key": "cormorant",
+            "cdn": "https://fonts.cdnfonts.com/css/azonix",
+            "key": "azonix",
             "woff2": null,
-            "family": "Cormorant"
+            "family": "Azonix"
           }
         },
         "color": {
@@ -2754,7 +2754,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Gapyeong Club Board Resort"
+        "nameEn": "ARENA Clubboard"
       },
       "roomtypes": [
         {
