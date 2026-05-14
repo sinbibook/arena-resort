@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-13T01:37:34.347528257Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-14T01:43:48.315233978Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -2082,7 +2082,7 @@
                     "id": "b0643224-2d38-4ae3-b1fd-5058d782ce1f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482816985-3oaamu123f.jpg",
                     "sortOrder": 3,
-                    "description": "축구장",
+                    "description": "미니풋살장",
                     "isSelected": true,
                     "blockId": null
                   },
