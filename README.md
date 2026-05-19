@@ -1,1 +1,1 @@
-# arena-resort
+# template-full-banner-wipe
