@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-06-11T03:47:58.770004803Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-06-12T06:09:00.215661649Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -235,7 +235,9 @@
     "refundSettings": {
       "customerRefundNotice": "",
       "immediateRefundEnabled": false,
-      "immediateRefundTimeLimit": "60"
+      "immediateRefundTimeLimit": "60",
+      "immediateRefundMinuteLimit": "60",
+      "sameDayReservationHourLimit": null
     },
     "images": [
       {
@@ -2671,11 +2673,11 @@
             "title": "",
             "images": [
               {
-                "id": "f146ea61-59b6-4761-89e5-ccc496e04517",
-                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/popup/1781138244155-wjdcxvv23s.png",
+                "id": "382b98c2-8d0f-4b7e-ad10-5b2cca36e6f2",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/popup/1781244536171-gju2lrvn6o.png",
                 "sortOrder": 0,
                 "description": "",
-                "isSelected": false,
+                "isSelected": true,
                 "blockId": "65af26cf-03a2-43cc-a3a3-504ba8f43c69"
               }
             ],
