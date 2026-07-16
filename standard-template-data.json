@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-07-16T10:37:19.348118011Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-07-16T10:37:50.436944790Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -57,8 +57,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
