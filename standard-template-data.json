@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.31.0",
-    "generatedAt": "2026-08-13T05:59:04.170321043Z",
+    "version": "1.32.0",
+    "generatedAt": "2026-08-14T02:52:56.673849917Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -3884,7 +3884,7 @@
     },
     "socialLinks": {
       "facebook": null,
-      "instagram": "https://www.instagram.com/arena_water_leisure",
+      "instagram": null,
       "blog": null,
       "youtube": null
     },
@@ -4642,7 +4642,7 @@
               {
                 "id": "2e560bb1-b7ca-47ee-b944-27262c64a69a",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/popup/1786584372861-78jztledks.jpg",
-                "sortOrder": 1,
+                "sortOrder": 0,
                 "description": "",
                 "isSelected": true,
                 "blockId": "aad0fe2b-6cc6-4aa8-98ac-daf94af27cef"
@@ -4663,7 +4663,7 @@
               {
                 "id": "f42dded3-1f42-4a3e-a438-73e6b093d08e",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/popup/1783644421392-h1ajemxgaa.png",
-                "sortOrder": 0,
+                "sortOrder": 1,
                 "description": "",
                 "isSelected": false,
                 "blockId": "5e76415a-bc04-486c-8a9c-b3e3a8880e1a"
