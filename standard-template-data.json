@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.33.0",
-    "generatedAt": "2026-08-14T02:53:42.020750568Z",
+    "version": "1.34.0",
+    "generatedAt": "2026-08-18T01:55:14.571617304Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -3894,7 +3894,7 @@
           "sections": [
             {
               "hero": {
-                "title": "가평 아레나 X 클럽보드리조트",
+                "title": "가평 클럽보드리조트",
                 "images": [
                   {
                     "id": "107f64f6-1ae9-4feb-9eee-5569dce80917",
@@ -4030,7 +4030,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "가평 아레나 X 클럽보드리조트",
+                "title": "가평 클럽보드리조트",
                 "images": [
                   {
                     "id": "53e7303e-ed52-48d1-8076-580ac6971fcf",
